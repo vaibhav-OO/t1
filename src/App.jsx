@@ -63,7 +63,7 @@ export default function App() {
           width="70%"
           margin="0 auto"
         >
-          <Heading level={1}>Expense Tracker</Heading>
+          <Heading level={1}>Travel with me</Heading>
           <View as="form" margin="3rem 0" onSubmit={createExpense}>
             <Flex
               direction="column"
